@@ -1,0 +1,468 @@
+1|(1)Numero Empleado|1100000001|Identificador de estado Invalido (01)|
+1|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+1|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+1|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+1|(23)Puesto| M02035|El Puesto no es parte del catalogo de DGRH|
+1|(24)Número de Puesto|0058|El Número Puesto no es parte del catalogo de DGRH|
+1|(26)Municipio|110|El Municipio no es parte del catalogo de DGRH|
+1|(27)Centro de Responsabilidad|1103050000|El Centro de Responsabilidad no corresponde al Estado|
+1|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+1|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+1|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+1|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+1|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+1|(54)Percepciones |2529.33|Percepciones debe  ser de 10 digitos y 2 decimales|
+1|(55)Deducciones |392.38|Deducciones debe  ser de 10 digitos y 2 decimales |
+1|(56)Neto|2136.95|Neto debe  ser de 10 digitos y 2 decimales |
+1|(59)Nombre del Producto|PRDE010|Nombre del Producto debe  ser de 11 caracteres/numeros|
+1|(61)Número de Cheque|000568311|Número de Cheque debe  ser de 10 Digitos|
+1|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+1|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+1|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+1|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA000585|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+1|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+1|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+1|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+1|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+1|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+2|(1)Numero Empleado|1100000002|Identificador de estado Invalido (01)|
+2|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+2|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+2|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+2|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+2|(24)Número de Puesto|0001|El Número Puesto no es parte del catalogo de DGRH|
+2|(27)Centro de Responsabilidad|1103090000|El Centro de Responsabilidad no corresponde al Estado|
+2|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+2|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+2|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+2|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+2|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+2|(54)Percepciones |8207.5|Percepciones debe  ser de 10 digitos y 2 decimales|
+2|(55)Deducciones |1198.56|Deducciones debe  ser de 10 digitos y 2 decimales |
+2|(56)Neto|7008.94|Neto debe  ser de 10 digitos y 2 decimales |
+2|(59)Nombre del Producto|PRDE010|Nombre del Producto debe  ser de 11 caracteres/numeros|
+2|(61)Número de Cheque|000568312|Número de Cheque debe  ser de 10 Digitos|
+2|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+2|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+2|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+2|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA001010|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+2|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+2|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+2|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+2|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+2|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+3|(1)Numero Empleado|1100000003|Identificador de estado Invalido (01)|
+3|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+3|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+3|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+3|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+3|(24)Número de Puesto|0284|El Número Puesto no es parte del catalogo de DGRH|
+3|(26)Municipio|110|El Municipio no es parte del catalogo de DGRH|
+3|(27)Centro de Responsabilidad|1106230000|El Centro de Responsabilidad no corresponde al Estado|
+3|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+3|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+3|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+3|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+3|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+3|(54)Percepciones |3283|Percepciones debe  ser de 10 digitos y 2 decimales|
+3|(55)Deducciones |479.42|Deducciones debe  ser de 10 digitos y 2 decimales |
+3|(56)Neto|2803.58|Neto debe  ser de 10 digitos y 2 decimales |
+3|(59)Nombre del Producto|PRDE010|Nombre del Producto debe  ser de 11 caracteres/numeros|
+3|(61)Número de Cheque|000568313|Número de Cheque debe  ser de 10 Digitos|
+3|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+3|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+3|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+3|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA002755 |Licencia sin Goce de Sueldo / CLUES  ser de 11 caracteres|
+3|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+3|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+3|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+3|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+3|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+4|(1)Numero Empleado|1100000004|Identificador de estado Invalido (01)|
+4|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+4|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+4|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+4|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+4|(24)Número de Puesto|0132|El Número Puesto no es parte del catalogo de DGRH|
+4|(26)Municipio|110|El Municipio no es parte del catalogo de DGRH|
+4|(27)Centro de Responsabilidad|1106230000|El Centro de Responsabilidad no corresponde al Estado|
+4|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+4|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+4|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+4|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+4|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+4|(54)Percepciones |4924.5|Percepciones debe  ser de 10 digitos y 2 decimales|
+4|(55)Deducciones |719.14|Deducciones debe  ser de 10 digitos y 2 decimales |
+4|(56)Neto|4205.36|Neto debe  ser de 10 digitos y 2 decimales |
+4|(59)Nombre del Producto|PRDE010|Nombre del Producto debe  ser de 11 caracteres/numeros|
+4|(61)Número de Cheque|000568314|Número de Cheque debe  ser de 10 Digitos|
+4|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+4|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+4|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+4|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA002755 |Licencia sin Goce de Sueldo / CLUES  ser de 11 caracteres|
+4|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+4|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+4|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+4|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+4|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+5|(1)Numero Empleado|1100000005|Identificador de estado Invalido (01)|
+5|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+5|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+5|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+5|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+5|(24)Número de Puesto|0113|El Número Puesto no es parte del catalogo de DGRH|
+5|(26)Municipio|110|El Municipio no es parte del catalogo de DGRH|
+5|(27)Centro de Responsabilidad|1107200060|El Centro de Responsabilidad no corresponde al Estado|
+5|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+5|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+5|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+5|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+5|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+5|(54)Percepciones |8207.5|Percepciones debe  ser de 10 digitos y 2 decimales|
+5|(55)Deducciones |1198.56|Deducciones debe  ser de 10 digitos y 2 decimales |
+5|(56)Neto|7008.94|Neto debe  ser de 10 digitos y 2 decimales |
+5|(59)Nombre del Producto|PRDE010|Nombre del Producto debe  ser de 11 caracteres/numeros|
+5|(61)Número de Cheque|000568315|Número de Cheque debe  ser de 10 Digitos|
+5|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+5|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+5|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+5|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA002270|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+5|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+5|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+5|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+5|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+5|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+6|(1)Numero Empleado|1100000006|Identificador de estado Invalido (01)|
+6|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+6|(10)Clave del Servicio Profesional de Carrera (FUNCION)|7|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+6|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+6|(24)Número de Puesto|0012|El Número Puesto no es parte del catalogo de DGRH|
+6|(26)Municipio|019|El Municipio no es parte del catalogo de DGRH|
+6|(27)Centro de Responsabilidad|1102000000|El Centro de Responsabilidad no corresponde al Estado|
+6|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+6|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+6|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+6|(42)Fecha de Reingreso|20100701|Fecha de Reingreso no puede ser menor a Fecha de Ingreso al Gobierno Federal|
+6|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+6|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+6|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+6|(54)Percepciones |3781.2|Percepciones debe  ser de 10 digitos y 2 decimales|
+6|(55)Deducciones |2868.41|Deducciones debe  ser de 10 digitos y 2 decimales |
+6|(56)Neto|912.79|Neto debe  ser de 10 digitos y 2 decimales |
+6|(59)Nombre del Producto|PRDE011|Nombre del Producto debe  ser de 11 caracteres/numeros|
+6|(61)Número de Cheque|000568316|Número de Cheque debe  ser de 10 Digitos|
+6|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+6|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+6|(67)Acumulado de FONAC|250.25|Acumulado de FONAC debe  ser de 10 Digitos|
+6|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA016505|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+6|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+6|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+6|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+6|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+6|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+7|(1)Numero Empleado|1100000007|Identificador de estado Invalido (01)|
+7|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+7|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+7|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+7|(23)Puesto| M03023|El Puesto no es parte del catalogo de DGRH|
+7|(24)Número de Puesto|0120|El Número Puesto no es parte del catalogo de DGRH|
+7|(26)Municipio|019|El Municipio no es parte del catalogo de DGRH|
+7|(27)Centro de Responsabilidad|1104020000|El Centro de Responsabilidad no corresponde al Estado|
+7|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+7|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+7|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+7|(42)Fecha de Reingreso|20120316|Fecha de Reingreso no puede ser menor a Fecha de Ingreso al Gobierno Federal|
+7|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+7|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+7|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+7|(54)Percepciones |2100|Percepciones debe  ser de 10 digitos y 2 decimales|
+7|(55)Deducciones |495.53|Deducciones debe  ser de 10 digitos y 2 decimales |
+7|(56)Neto|1604.47|Neto debe  ser de 10 digitos y 2 decimales |
+7|(59)Nombre del Producto|PRDE011|Nombre del Producto debe  ser de 11 caracteres/numeros|
+7|(61)Número de Cheque|000568317|Número de Cheque debe  ser de 10 Digitos|
+7|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+7|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+7|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+7|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA000112|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+7|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+7|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+7|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+7|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+7|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+8|(1)Numero Empleado|1100000008|Identificador de estado Invalido (01)|
+8|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+8|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+8|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+8|(23)Puesto| M03022|El Puesto no es parte del catalogo de DGRH|
+8|(24)Número de Puesto|0102|El Número Puesto no es parte del catalogo de DGRH|
+8|(26)Municipio|019|El Municipio no es parte del catalogo de DGRH|
+8|(27)Centro de Responsabilidad|1104190000|El Centro de Responsabilidad no corresponde al Estado|
+8|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+8|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+8|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+8|(42)Fecha de Reingreso|20150701|Fecha de Reingreso no puede ser menor a Fecha de Ingreso al Gobierno Federal|
+8|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+8|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+8|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+8|(54)Percepciones |3500|Percepciones debe  ser de 10 digitos y 2 decimales|
+8|(55)Deducciones |879.36|Deducciones debe  ser de 10 digitos y 2 decimales |
+8|(56)Neto|2620.64|Neto debe  ser de 10 digitos y 2 decimales |
+8|(59)Nombre del Producto|PRDE011|Nombre del Producto debe  ser de 11 caracteres/numeros|
+8|(61)Número de Cheque|000568318|Número de Cheque debe  ser de 10 Digitos|
+8|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+8|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+8|(67)Acumulado de FONAC|148.5|Acumulado de FONAC debe  ser de 10 Digitos|
+8|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA017163|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+8|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+8|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+8|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+8|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+8|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+9|(1)Numero Empleado|1100000009|Identificador de estado Invalido (01)|
+9|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+9|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+9|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+9|(23)Puesto| M02035|El Puesto no es parte del catalogo de DGRH|
+9|(24)Número de Puesto|0059|El Número Puesto no es parte del catalogo de DGRH|
+9|(26)Municipio|019|El Municipio no es parte del catalogo de DGRH|
+9|(27)Centro de Responsabilidad|1104190000|El Centro de Responsabilidad no corresponde al Estado|
+9|(28)Cédula de Identidad (NSS)|000080944715475|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+9|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+9|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+9|(42)Fecha de Reingreso|19740116|Fecha de Reingreso no puede ser menor a Fecha de Ingreso al Gobierno Federal|
+9|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+9|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+9|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+9|(54)Percepciones |4106.69|Percepciones debe  ser de 10 digitos y 2 decimales|
+9|(55)Deducciones |866.64|Deducciones debe  ser de 10 digitos y 2 decimales |
+9|(56)Neto|3240.05|Neto debe  ser de 10 digitos y 2 decimales |
+9|(59)Nombre del Producto|PRDE011|Nombre del Producto debe  ser de 11 caracteres/numeros|
+9|(61)Número de Cheque|000568319|Número de Cheque debe  ser de 10 Digitos|
+9|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+9|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+9|(67)Acumulado de FONAC|250.25|Acumulado de FONAC debe  ser de 10 Digitos|
+9|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA017163|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+9|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+9|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+9|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+9|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+9|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+10|(1)Numero Empleado|1100000010|Identificador de estado Invalido (01)|
+10|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+10|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+10|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+10|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+10|(24)Número de Puesto|0132|El Número Puesto no es parte del catalogo de DGRH|
+10|(26)Municipio|019|El Municipio no es parte del catalogo de DGRH|
+10|(27)Centro de Responsabilidad|1106230000|El Centro de Responsabilidad no corresponde al Estado|
+10|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+10|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+10|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+10|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+10|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+10|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+10|(54)Percepciones |16962.17|Percepciones debe  ser de 10 digitos y 2 decimales|
+10|(55)Deducciones |2477.02|Deducciones debe  ser de 10 digitos y 2 decimales |
+10|(56)Neto|14485.15|Neto debe  ser de 10 digitos y 2 decimales |
+10|(59)Nombre del Producto|PRDE011|Nombre del Producto debe  ser de 11 caracteres/numeros|
+10|(61)Número de Cheque|000568320|Número de Cheque debe  ser de 10 Digitos|
+10|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+10|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+10|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+10|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA002755 |Licencia sin Goce de Sueldo / CLUES  ser de 11 caracteres|
+10|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+10|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+10|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+10|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+10|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+11|(1)Numero Empleado|1100000011|Identificador de estado Invalido (01)|
+11|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+11|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+11|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+11|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+11|(24)Número de Puesto|0417|El Número Puesto no es parte del catalogo de DGRH|
+11|(26)Municipio|020|El Municipio no es parte del catalogo de DGRH|
+11|(27)Centro de Responsabilidad|1122070000|El Centro de Responsabilidad no corresponde al Estado|
+11|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+11|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+11|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+11|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+11|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+11|(54)Percepciones |18940.83|Percepciones debe  ser de 10 digitos y 2 decimales|
+11|(55)Deducciones |2751.79|Deducciones debe  ser de 10 digitos y 2 decimales |
+11|(56)Neto|16189.04|Neto debe  ser de 10 digitos y 2 decimales |
+11|(59)Nombre del Producto|PRDE012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+11|(61)Número de Cheque|000568321|Número de Cheque debe  ser de 10 Digitos|
+11|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+11|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+11|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+11|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA000766|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+11|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+11|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+11|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+11|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+11|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+12|(1)Numero Empleado|1100000012|Identificador de estado Invalido (01)|
+12|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+12|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+12|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+12|(23)Puesto| M03021|El Puesto no es parte del catalogo de DGRH|
+12|(24)Número de Puesto|0095|El Número Puesto no es parte del catalogo de DGRH|
+12|(26)Municipio|020|El Municipio no es parte del catalogo de DGRH|
+12|(27)Centro de Responsabilidad|1124150000|El Centro de Responsabilidad no corresponde al Estado|
+12|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+12|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+12|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+12|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+12|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+12|(54)Percepciones |5592|Percepciones debe  ser de 10 digitos y 2 decimales|
+12|(55)Deducciones |639.89|Deducciones debe  ser de 10 digitos y 2 decimales |
+12|(56)Neto|4952.11|Neto debe  ser de 10 digitos y 2 decimales |
+12|(59)Nombre del Producto|PRDE012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+12|(61)Número de Cheque|000568322|Número de Cheque debe  ser de 10 Digitos|
+12|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+12|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+12|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+12|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA001454|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+12|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+12|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+12|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+12|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+12|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+13|(1)Numero Empleado|1100000013|Identificador de estado Invalido (01)|
+13|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+13|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+13|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+13|(23)Puesto| M02001|El Puesto no es parte del catalogo de DGRH|
+13|(24)Número de Puesto|0003|El Número Puesto no es parte del catalogo de DGRH|
+13|(26)Municipio|020|El Municipio no es parte del catalogo de DGRH|
+13|(27)Centro de Responsabilidad|1135200000|El Centro de Responsabilidad no corresponde al Estado|
+13|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+13|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+13|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+13|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+13|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+13|(54)Percepciones |13219.5|Percepciones debe  ser de 10 digitos y 2 decimales|
+13|(55)Deducciones |2330.35|Deducciones debe  ser de 10 digitos y 2 decimales |
+13|(56)Neto|10889.15|Neto debe  ser de 10 digitos y 2 decimales |
+13|(59)Nombre del Producto|PRDE012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+13|(61)Número de Cheque|000568323|Número de Cheque debe  ser de 10 Digitos|
+13|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+13|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+13|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+13|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA016674|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+13|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+13|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+13|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+13|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+13|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+14|(1)Numero Empleado|1100000014|Identificador de estado Invalido (01)|
+14|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+14|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+14|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+14|(23)Puesto| M02001|El Puesto no es parte del catalogo de DGRH|
+14|(24)Número de Puesto|0005|El Número Puesto no es parte del catalogo de DGRH|
+14|(26)Municipio|020|El Municipio no es parte del catalogo de DGRH|
+14|(27)Centro de Responsabilidad|1135200000|El Centro de Responsabilidad no corresponde al Estado|
+14|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+14|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+14|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+14|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+14|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+14|(54)Percepciones |13219.5|Percepciones debe  ser de 10 digitos y 2 decimales|
+14|(55)Deducciones |2330.35|Deducciones debe  ser de 10 digitos y 2 decimales |
+14|(56)Neto|10889.15|Neto debe  ser de 10 digitos y 2 decimales |
+14|(59)Nombre del Producto|PRDE012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+14|(61)Número de Cheque|000568324|Número de Cheque debe  ser de 10 Digitos|
+14|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+14|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+14|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+14|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA016674|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+14|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+14|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+14|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+14|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+14|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+15|(1)Numero Empleado|1100000015|Identificador de estado Invalido (01)|
+15|(4)Nombre del Empleado|PALOMINO,MU�OZ/CLAUDIA IVETH|EL campo no cumple con estructura definida PATERNO,MATERNO/NOMBRE(S)|
+15|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+15|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+15|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+15|(23)Puesto| M02090|El Puesto no es parte del catalogo de DGRH|
+15|(24)Número de Puesto|0002|El Número Puesto no es parte del catalogo de DGRH|
+15|(26)Municipio|020|El Municipio no es parte del catalogo de DGRH|
+15|(27)Centro de Responsabilidad|1135200000|El Centro de Responsabilidad no corresponde al Estado|
+15|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+15|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+15|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+15|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+15|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+15|(54)Percepciones |15746|Percepciones debe  ser de 10 digitos y 2 decimales|
+15|(55)Deducciones |2924.58|Deducciones debe  ser de 10 digitos y 2 decimales |
+15|(56)Neto|12821.42|Neto debe  ser de 10 digitos y 2 decimales |
+15|(59)Nombre del Producto|PRDE012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+15|(61)Número de Cheque|000568325|Número de Cheque debe  ser de 10 Digitos|
+15|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+15|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+15|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+15|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA016674|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+15|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+15|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+15|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+15|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+15|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+16|(1)Numero Empleado|1100000016|Identificador de estado Invalido (01)|
+16|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+16|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+16|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+16|(23)Puesto| M02036|El Puesto no es parte del catalogo de DGRH|
+16|(24)Número de Puesto|0417|El Número Puesto no es parte del catalogo de DGRH|
+16|(27)Centro de Responsabilidad|1122070000|El Centro de Responsabilidad no corresponde al Estado|
+16|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+16|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+16|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+16|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+16|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+16|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+16|(54)Percepciones |16776.17|Percepciones debe  ser de 10 digitos y 2 decimales|
+16|(55)Deducciones |2437.3|Deducciones debe  ser de 10 digitos y 2 decimales |
+16|(56)Neto|14338.87|Neto debe  ser de 10 digitos y 2 decimales |
+16|(59)Nombre del Producto|PRDE013|Nombre del Producto debe  ser de 11 caracteres/numeros|
+16|(61)Número de Cheque|000568326|Número de Cheque debe  ser de 10 Digitos|
+16|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+16|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+16|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+16|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA000766|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+16|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+16|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+16|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+16|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+16|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+17|(1)Numero Empleado|1100000017|Identificador de estado Invalido (01)|
+17|(9)Clave del Banco (CLABE)||Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+17|(10)Clave del Servicio Profesional de Carrera (FUNCION)|2|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+17|(19)Programa General|11|La Programa General no es parte del catalogo de DGRH|
+17|(23)Puesto| M01006|El Puesto no es parte del catalogo de DGRH|
+17|(24)Número de Puesto|0314|El Número Puesto no es parte del catalogo de DGRH|
+17|(27)Centro de Responsabilidad|1102060000|El Centro de Responsabilidad no corresponde al Estado|
+17|(28)Cédula de Identidad (NSS)|000080007219027|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+17|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+17|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+17|(42)Fecha de Reingreso|20000101|Fecha de Reingreso no puede ser menor a Fecha de Ingreso al Gobierno Federal|
+17|(44)Fecha de Pago|140116|Fecha de Pago debe ser de 9 Caracteres(DDMMMAAAA (AAAA=año, MM=mes(primeras 3 letras), DD=día))|
+17|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+17|(50)Año de Proceso Real|2016|No se aceptan años posteriores a año de periodo de pago inicial y perido de pago final |
+17|(54)Percepciones |8955.56|Percepciones debe  ser de 10 digitos y 2 decimales|
+17|(55)Deducciones |443.02|Deducciones debe  ser de 10 digitos y 2 decimales |
+17|(56)Neto|8512.54|Neto debe  ser de 10 digitos y 2 decimales |
+17|(59)Nombre del Producto|PRDE01E|Nombre del Producto debe  ser de 11 caracteres/numeros|
+17|(61)Número de Cheque|000568344|Número de Cheque debe  ser de 10 Digitos|
+17|(65)Ciclo del FONAC|26|Ciclo del FONAC debe  ser de 4 Digitos|
+17|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+17|(67)Acumulado de FONAC|250.25|Acumulado de FONAC debe  ser de 10 Digitos|
+17|(69)Licencia sin Goce de Sueldo / CLUES|GTSSA000701|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+17|(70)Porcentaje de Pensión 01 |00000000|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+17|(71)Porcentaje de Pensión 02 |00000000|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+17|(72)Porcentaje de Pensión 03|00000000|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+17|(73)Porcentaje de Pensión 04|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+17|(74)Porcentaje de Pensión 05|00000000|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|

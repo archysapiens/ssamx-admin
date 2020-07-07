@@ -1,0 +1,10 @@
+Contar SQL > SELECT  count(*) AS count
+			FROM errores
+				where id_remesas= and 
+				etiqueta_envio='' and 
+				archivo_error like '%%'		<
+Detalle SQL > SELECT  numero_registro,  campo,  evidencia,  descripcion
+				FROM errores
+				where id_remesas= and 
+				etiqueta_envio='' and 
+				archivo_error like '%%'	order by numero_registro asc<

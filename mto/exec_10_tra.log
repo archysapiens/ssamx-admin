@@ -1,0 +1,8 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Mon Aug 29 19:07:06 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-500: Unable to open file (../staging/prde040.tra)
+SQL*Loader-553: file not found
+SQL*Loader-509: System error: No such file or directory

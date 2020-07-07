@@ -1,0 +1,9 @@
+# 
+#  Nombre	:ptfma_demon_pn.sh
+#  fecha	:03-Ago-2016
+#  Objetivo	: Realizar la Carga de la Remesa a Tabla Staging
+# 
+
+echo "select id from remesas where estatus='T';"|mysql -u root -pSecnomina#2016 ssa
+
+

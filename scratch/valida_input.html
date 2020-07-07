@@ -1,0 +1,38 @@
+
+
+<html>
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+</head>
+<body>
+
+<form>
+  <input id="target" type="text" value="Field 1">
+  <input id="destino" type="text" value="Field 2">
+
+
+</form>
+<div id="other">
+  Trigger the handler
+</div>
+<script>
+
+$( "#target" ).blur(function() {
+  //alert( "Handler for .blur() called." );
+});
+</script>
+
+<script>
+$('input').blur(function(){
+			var IdQna = event.target.id;
+			alert(event.target.value);
+			$(event.target).val('cambiaste');
+
+}
+		);			
+
+</script>
+</body>
+</html>

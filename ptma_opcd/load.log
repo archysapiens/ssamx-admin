@@ -1,0 +1,141 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Vie Jun 24 14:55:45 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   ../staging/load.ctl
+Data File:      ../staging/20160624145535BD161508_ok.txt
+  Bad File:     ../staging/20160624145535BD161508_ok.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BD, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+NUMEMP                              FIRST     *   |  O(") CHARACTER            
+RFC                                  NEXT     *   |  O(") CHARACTER            
+CURP                                 NEXT     *   |  O(") CHARACTER            
+NOMBRE                               NEXT     *   |  O(") CHARACTER            
+SAR                                  NEXT     *   |  O(") CHARACTER            
+BANCOA                               NEXT     *   |  O(") CHARACTER            
+BANCON                               NEXT     *   |  O(") CHARACTER            
+NUMCTA                               NEXT     *   |  O(") CHARACTER            
+CLABE                                NEXT     *   |  O(") CHARACTER            
+CVESPC                               NEXT     *   |  O(") CHARACTER            
+CP                                   NEXT     *   |  O(") CHARACTER            
+CALLE                                NEXT     *   |  O(") CHARACTER            
+COLONIA                              NEXT     *   |  O(") CHARACTER            
+DELEG                                NEXT     *   |  O(") CHARACTER            
+UR                                   NEXT     *   |  O(") CHARACTER            
+GF                                   NEXT     *   |  O(") CHARACTER            
+FN                                   NEXT     *   |  O(") CHARACTER            
+SF                                   NEXT     *   |  O(") CHARACTER            
+PG                                   NEXT     *   |  O(") CHARACTER            
+AI                                   NEXT     *   |  O(") CHARACTER            
+PP                                   NEXT     *   |  O(") CHARACTER            
+PARTIDA                              NEXT     *   |  O(") CHARACTER            
+PUESTO                               NEXT     *   |  O(") CHARACTER            
+NUMPTO                               NEXT     *   |  O(") CHARACTER            
+EDO                                  NEXT     *   |  O(") CHARACTER            
+MPIO                                 NEXT     *   |  O(") CHARACTER            
+CR                                   NEXT     *   |  O(") CHARACTER            
+CI                                   NEXT     *   |  O(") CHARACTER            
+PAGADURI                             NEXT     *   |  O(") CHARACTER            
+AHISA                                NEXT     *   |  O(") CHARACTER            
+TABPTO                               NEXT     *   |  O(") CHARACTER            
+NIVEL                                NEXT     *   |  O(") CHARACTER            
+RANGO                                NEXT     *   |  O(") CHARACTER            
+INDMANDO                             NEXT     *   |  O(") CHARACTER            
+HORAS                                NEXT     *   |  O(") CHARACTER            
+PORCENT                              NEXT     *   |  O(") CHARACTER            
+TIPOTRAB                             NEXT     *   |  O(") CHARACTER            
+NIVELPTO                             NEXT     *   |  O(") CHARACTER            
+INDEMP                               NEXT     *   |  O(") CHARACTER            
+FIGF                                 NEXT     *   |  O(") CHARACTER            
+FSSA                                 NEXT     *   |  O(") CHARACTER            
+FREING                               NEXT     *   |  O(") CHARACTER            
+TIPOMOV                              NEXT     *   |  O(") CHARACTER            
+FPAGO                                NEXT     *   |  O(") CHARACTER            
+PPAGOI                               NEXT     *   |  O(") CHARACTER            
+PPAGOF                               NEXT     *   |  O(") CHARACTER            
+PQNAI                                NEXT     *   |  O(") CHARACTER            
+PQNAF                                NEXT     *   |  O(") CHARACTER            
+QNAREAL                              NEXT     *   |  O(") CHARACTER            
+ANIOREAL                             NEXT     *   |  O(") CHARACTER            
+TIPOPAGO                             NEXT     *   |  O(") CHARACTER            
+INSTRUA                              NEXT     *   |  O(") CHARACTER            
+INSTRUN                              NEXT     *   |  O(") CHARACTER            
+PER                                  NEXT     *   |  O(") CHARACTER            
+DED                                  NEXT     *   |  O(") CHARACTER            
+NETO                                 NEXT     *   |  O(") CHARACTER            
+NOTRAIL                              NEXT     *   |  O(") CHARACTER            
+DIASLAB                              NEXT     *   |  O(") CHARACTER            
+NOMPROD                              NEXT     *   |  O(") CHARACTER            
+NUMCTROL                             NEXT     *   |  O(") CHARACTER            
+NUMCHEQ                              NEXT     *   |  O(") CHARACTER            
+DIGVER                               NEXT     *   |  O(") CHARACTER            
+TESOFE                               NEXT     *   |  O(") CHARACTER            
+DIASPD                               NEXT     *   |  O(") CHARACTER            
+CICLOF                               NEXT     *   |  O(") CHARACTER            
+NUMAPORT                             NEXT     *   |  O(") CHARACTER            
+ACUMF                                NEXT     *   |  O(") CHARACTER            
+FALTAS                               NEXT     *   |  O(") CHARACTER            
+LSGS                                 NEXT     *   |  O(") CHARACTER            
+PORPEN01                             NEXT     *   |  O(") CHARACTER            
+PORPEN02                             NEXT     *   |  O(") CHARACTER            
+PORPEN03                             NEXT     *   |  O(") CHARACTER            
+PORPEN04                             NEXT     *   |  O(") CHARACTER            
+PORPEN05                             NEXT     *   |  O(") CHARACTER            
+ISSSTE                               NEXT     *   |  O(") CHARACTER            
+TIPOUNI                              NEXT     *   |  O(") CHARACTER            
+CRESPDES                             NEXT     *   |  O(") CHARACTER            
+VERSION                              NEXT     *   |  O(") CHARACTER            
+ESTADO                               NEXT     *   |  O(") CHARACTER            
+TIPNOM                               NEXT     *   |  O(") CHARACTER            
+QNAPROC                              NEXT     *   |  O(") CHARACTER            
+ANIOPROC                             NEXT     *   |  O(") CHARACTER            
+QNAENVIO                             NEXT     *   |  O(") CHARACTER            
+ANIOENV                              NEXT     *   |  O(") CHARACTER            
+NOMARCH                              NEXT     *   |  O(") CHARACTER            
+TIPOPER                              NEXT     *   |  O(") CHARACTER            
+LLAVE                                NEXT     *   |  O(") CHARACTER            
+FECHA_PROCESO                                             SYSDATE
+
+value used for ROWS parameter changed from 64 to 11
+Record 3004: Rejected - Error on table BD, column LLAVE.
+Column not found before end of logical record (use TRAILING NULLCOLS)
+Record 3131: Rejected - Error on table BD, column LLAVE.
+Column not found before end of logical record (use TRAILING NULLCOLS)
+Record 13742: Rejected - Error on table BD, column LLAVE.
+Column not found before end of logical record (use TRAILING NULLCOLS)
+
+Table BD:
+  25927 Rows successfully loaded.
+  3 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 246906 bytes(11 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:         25930
+Total logical records rejected:         3
+Total logical records discarded:        0
+
+Run began on Vie Jun 24 14:55:45 2016
+Run ended on Vie Jun 24 14:55:52 2016
+
+Elapsed time was:     00:00:06.75
+CPU time was:         00:00:00.98

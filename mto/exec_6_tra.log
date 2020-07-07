@@ -1,0 +1,75 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Fri Sep 2 13:08:12 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   exec_6_tra.ctl
+Data File:      ../staging/prde01p.tra
+  Bad File:     prde01p.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 1
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "PRO_NOMINA"."BDAT", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+"RFC"                               FIRST    13   |  O(") CHARACTER            
+                                                      O(")
+"NUMEMP"                             NEXT    10   |  O(") CHARACTER            
+                                                      O(")
+"NUMCHEQ"                            NEXT     9   |  O(") CHARACTER            
+                                                      O(")
+"TCONCEP"                            NEXT     3   |  O(") CHARACTER            
+                                                      O(")
+"CONCEP"                             NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"IMPORTE"                            NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"ANIO"                               NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"QNA"                                NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"PTAANT"                             NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"TOTPAGOS"                           NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"PAGOEFEC"                           NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"NOMPROD"                            NEXT    11   |  O(") CHARACTER            
+                                                      O(")
+"NUMCTROL"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"NOMARCH"                                                 CONSTANT
+    Value is 'prde01p.tra'
+
+
+Table "PRO_NOMINA"."BDAT":
+  9 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  39552 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             9
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Sep 02 13:08:12 2016
+Run ended on Fri Sep 02 13:08:12 2016
+
+Elapsed time was:     00:00:00.39
+CPU time was:         00:00:00.01

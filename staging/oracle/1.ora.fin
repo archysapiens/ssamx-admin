@@ -1,0 +1,9 @@
+SET HEADING ON
+SET PAGESIZE 1000
+set pagesize 100
+SET COLSEP "|"
+set wrap off
+set feedback off
+select ur, descripcion
+from cat_ur;
+

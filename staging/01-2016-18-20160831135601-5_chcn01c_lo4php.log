@@ -1,0 +1,10 @@
+Contar SQL > SELECT  count(*) AS count
+			FROM errores
+				where id_remesas=10017 and 
+				etiqueta_envio='01-2016-18-20160831135601-5' and 
+				archivo_error like '%chcn01c%'		<
+Detalle SQL > SELECT  numero_registro,  campo,  evidencia,  descripcion
+				FROM errores
+				where id_remesas=10017 and 
+				etiqueta_envio='01-2016-18-20160831135601-5' and 
+				archivo_error like '%chcn01c%'	order by numero_registro asc<

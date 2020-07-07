@@ -1,0 +1,6 @@
+INSERT INTO bitacora( fecha_evento, id_remesas,  archivo_procesado,
+					  registro,  error,  campo,  descripcion, evidencia, id_directiva,
+					  estatus,  fecha_actualiacion, archivos, total)
+					value(STR_TO_DATE('20160804093840','%Y%m%d%H%i%s'),2199, '../staging/20160804093840QCN2_NOMINA11.txt.err',
+					null,null,null,'Resultado de Proceso de Validacion de Directivas de Calidad',null,1,
+					'E',null,'../staging/20160804093840QCN2_NOMINA11.txt.err', 61468)

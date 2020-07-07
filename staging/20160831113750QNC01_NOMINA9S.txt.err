@@ -1,0 +1,124 @@
+1|(1)Numero Empleado|0400003734|Identificador de estado Invalido (01)|
+1|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+1|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+1|(23)Puesto|M02077|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+1|(24)Número de Puesto|0004|El Número Puesto no es parte del catalogo de DGRH|
+1|(27)Centro de Responsabilidad|0414720350|El Centro de Responsabilidad no corresponde al Estado|
+1|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+1|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+1|(35)Horario Asignado|0|Horario Asignado no corresponde al catalogo establecidas por DGRH(1-8)|
+1|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+1|(42)Fecha de Reingreso||Fecha de Reingreso debe ser de 8 Digíto(AAAAMMDD (AAAA=año, MM=mes, DD=día))|
+1|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+1|(51)Tipo de Pago| 0000000000000000000000000001.0000000000|Tipo de Pago ser de 1 digitos|
+1|(53)Instrumento de Pago Nuevo|00|El valor de Instrumento de Pago Nuevo no coincide con la directiva de calidad de la DGRH|
+1|(54)Percepciones | 0000006739.91|Percepciones debe  ser de 10 digitos y 2 decimales|
+1|(55)Deducciones | 0000000000.00|Deducciones debe  ser de 10 digitos y 2 decimales |
+1|(56)Neto| 0000006739.91|Neto debe  ser de 10 digitos y 2 decimales |
+1|(57)Número de Trailers-Total  de Conceptos | 0000000000000000000000000001.0000000000|Número de Trailers-Total  de Conceptos debe  ser de 2 |
+1|(59)Nombre del Producto|PRDP012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+1|(61)Número de Cheque|100000740|Número de Cheque debe  ser de 10 Digitos|
+1|(63)Indicador de TESOFE -JORNADA| 0000000000000000000000000001.0000000000|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+1|(65)Ciclo del FONAC|27|Ciclo del FONAC debe  ser de 4 Digitos|
+1|(67)Acumulado de FONAC| 0000000000000000000000005427.0000000000|Acumulado de FONAC debe  ser de 10 Digitos|
+1|(69)Licencia sin Goce de Sueldo / CLUES|CCSSA017386|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+1|(70)Porcentaje de Pensión 01 | 0000000000.00|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+1|(71)Porcentaje de Pensión 02 | 0000000000.00|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+1|(72)Porcentaje de Pensión 03| 0000000000.00|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+1|(73)Porcentaje de Pensión 04| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+1|(74)Porcentaje de Pensión 05| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+1|(75)Elección de tipo de retiro del ISSSTE| 0000000000000000000000000000.0000000000|Elección de tipo de retiro del ISSSTE 1 enteros [0,1,2]|
+1|(76)Tipo de Unidad| 0000000000000000000000000001.0000000000|Tipo de Unidad 1 enteros [1,2]|
+2|(1)Numero Empleado|0400003971|Identificador de estado Invalido (01)|
+2|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+2|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+2|(23)Puesto|M03023|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+2|(24)Número de Puesto|0041|El Número Puesto no es parte del catalogo de DGRH|
+2|(27)Centro de Responsabilidad|0414720451|El Centro de Responsabilidad no corresponde al Estado|
+2|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+2|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+2|(35)Horario Asignado|0|Horario Asignado no corresponde al catalogo establecidas por DGRH(1-8)|
+2|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+2|(42)Fecha de Reingreso||Fecha de Reingreso debe ser de 8 Digíto(AAAAMMDD (AAAA=año, MM=mes, DD=día))|
+2|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+2|(51)Tipo de Pago| 0000000000000000000000000001.0000000000|Tipo de Pago ser de 1 digitos|
+2|(53)Instrumento de Pago Nuevo|00|El valor de Instrumento de Pago Nuevo no coincide con la directiva de calidad de la DGRH|
+2|(54)Percepciones | 0000000533.08|Percepciones debe  ser de 10 digitos y 2 decimales|
+2|(55)Deducciones | 0000000000.00|Deducciones debe  ser de 10 digitos y 2 decimales |
+2|(56)Neto| 0000000533.08|Neto debe  ser de 10 digitos y 2 decimales |
+2|(57)Número de Trailers-Total  de Conceptos | 0000000000000000000000000001.0000000000|Número de Trailers-Total  de Conceptos debe  ser de 2 |
+2|(59)Nombre del Producto|PRDP012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+2|(61)Número de Cheque|100000741|Número de Cheque debe  ser de 10 Digitos|
+2|(63)Indicador de TESOFE -JORNADA| 0000000000000000000000000002.0000000000|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+2|(65)Ciclo del FONAC|27|Ciclo del FONAC debe  ser de 4 Digitos|
+2|(67)Acumulado de FONAC| 0000000000000000000000005427.0000000000|Acumulado de FONAC debe  ser de 10 Digitos|
+2|(69)Licencia sin Goce de Sueldo / CLUES|CCSSA017670|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+2|(70)Porcentaje de Pensión 01 | 0000000000.00|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+2|(71)Porcentaje de Pensión 02 | 0000000000.00|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+2|(72)Porcentaje de Pensión 03| 0000000000.00|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+2|(73)Porcentaje de Pensión 04| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+2|(74)Porcentaje de Pensión 05| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+2|(75)Elección de tipo de retiro del ISSSTE| 0000000000000000000000000000.0000000000|Elección de tipo de retiro del ISSSTE 1 enteros [0,1,2]|
+2|(76)Tipo de Unidad| 0000000000000000000000000001.0000000000|Tipo de Unidad 1 enteros [1,2]|
+3|(1)Numero Empleado|0400004969|Identificador de estado Invalido (01)|
+3|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+3|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+3|(23)Puesto|M02077|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+3|(24)Número de Puesto|0014|El Número Puesto no es parte del catalogo de DGRH|
+3|(27)Centro de Responsabilidad|0414721011|El Centro de Responsabilidad no corresponde al Estado|
+3|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+3|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+3|(35)Horario Asignado|0|Horario Asignado no corresponde al catalogo establecidas por DGRH(1-8)|
+3|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+3|(42)Fecha de Reingreso||Fecha de Reingreso debe ser de 8 Digíto(AAAAMMDD (AAAA=año, MM=mes, DD=día))|
+3|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+3|(51)Tipo de Pago| 0000000000000000000000000001.0000000000|Tipo de Pago ser de 1 digitos|
+3|(53)Instrumento de Pago Nuevo|00|El valor de Instrumento de Pago Nuevo no coincide con la directiva de calidad de la DGRH|
+3|(54)Percepciones | 0000004968.16|Percepciones debe  ser de 10 digitos y 2 decimales|
+3|(55)Deducciones | 0000000000.00|Deducciones debe  ser de 10 digitos y 2 decimales |
+3|(56)Neto| 0000004968.16|Neto debe  ser de 10 digitos y 2 decimales |
+3|(57)Número de Trailers-Total  de Conceptos | 0000000000000000000000000001.0000000000|Número de Trailers-Total  de Conceptos debe  ser de 2 |
+3|(59)Nombre del Producto|PRDP012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+3|(61)Número de Cheque|100000742|Número de Cheque debe  ser de 10 Digitos|
+3|(63)Indicador de TESOFE -JORNADA| 0000000000000000000000000001.0000000000|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+3|(65)Ciclo del FONAC|27|Ciclo del FONAC debe  ser de 4 Digitos|
+3|(67)Acumulado de FONAC| 0000000000000000000000005427.0000000000|Acumulado de FONAC debe  ser de 10 Digitos|
+3|(69)Licencia sin Goce de Sueldo / CLUES|CCSSA017670|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+3|(70)Porcentaje de Pensión 01 | 0000000000.00|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+3|(71)Porcentaje de Pensión 02 | 0000000000.00|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+3|(72)Porcentaje de Pensión 03| 0000000000.00|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+3|(73)Porcentaje de Pensión 04| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+3|(74)Porcentaje de Pensión 05| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+3|(75)Elección de tipo de retiro del ISSSTE| 0000000000000000000000000000.0000000000|Elección de tipo de retiro del ISSSTE 1 enteros [0,1,2]|
+3|(76)Tipo de Unidad| 0000000000000000000000000001.0000000000|Tipo de Unidad 1 enteros [1,2]|
+4|(1)Numero Empleado|0400004969|Identificador de estado Invalido (01)|
+4|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+4|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+4|(23)Puesto|M02077|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+4|(24)Número de Puesto|0014|El Número Puesto no es parte del catalogo de DGRH|
+4|(27)Centro de Responsabilidad|0414721011|El Centro de Responsabilidad no corresponde al Estado|
+4|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+4|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+4|(35)Horario Asignado|0|Horario Asignado no corresponde al catalogo establecidas por DGRH(1-8)|
+4|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+4|(42)Fecha de Reingreso||Fecha de Reingreso debe ser de 8 Digíto(AAAAMMDD (AAAA=año, MM=mes, DD=día))|
+4|(48)Periodo de Aplicación Final|20160115|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+4|(51)Tipo de Pago| 0000000000000000000000000001.0000000000|Tipo de Pago ser de 1 digitos|
+4|(53)Instrumento de Pago Nuevo|00|El valor de Instrumento de Pago Nuevo no coincide con la directiva de calidad de la DGRH|
+4|(54)Percepciones | 0000002484.09|Percepciones debe  ser de 10 digitos y 2 decimales|
+4|(55)Deducciones | 0000000000.00|Deducciones debe  ser de 10 digitos y 2 decimales |
+4|(56)Neto| 0000002484.09|Neto debe  ser de 10 digitos y 2 decimales |
+4|(57)Número de Trailers-Total  de Conceptos | 0000000000000000000000000001.0000000000|Número de Trailers-Total  de Conceptos debe  ser de 2 |
+4|(59)Nombre del Producto|PRDP012|Nombre del Producto debe  ser de 11 caracteres/numeros|
+4|(61)Número de Cheque|100000743|Número de Cheque debe  ser de 10 Digitos|
+4|(63)Indicador de TESOFE -JORNADA| 0000000000000000000000000001.0000000000|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+4|(65)Ciclo del FONAC|27|Ciclo del FONAC debe  ser de 4 Digitos|
+4|(67)Acumulado de FONAC| 0000000000000000000000005427.0000000000|Acumulado de FONAC debe  ser de 10 Digitos|
+4|(69)Licencia sin Goce de Sueldo / CLUES|CCSSA017670|Licencia sin Goce de Sueldo / CLUES No coincide el catalogo definido por la DGRH|
+4|(70)Porcentaje de Pensión 01 | 0000000000.00|Porcentaje de Pensión 01   ser de 3 enteros y 2 decimales(###.##)|
+4|(71)Porcentaje de Pensión 02 | 0000000000.00|Porcentaje de Pensión 02   ser de 3 enteros y 2 decimales(###.##)|
+4|(72)Porcentaje de Pensión 03| 0000000000.00|Porcentaje de Pensión 03 ser de 3 enteros y 2 decimales(###.##)|
+4|(73)Porcentaje de Pensión 04| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+4|(74)Porcentaje de Pensión 05| 0000000000.00|Porcentaje de Pensión 04 ser de 3 enteros y 2 decimales(###.##)|
+4|(75)Elección de tipo de retiro del ISSSTE| 0000000000000000000000000000.0000000000|Elección de tipo de retiro del ISSSTE 1 enteros [0,1,2]|
+4|(76)Tipo de Unidad| 0000000000000000000000000001.0000000000|Tipo de Unidad 1 enteros [1,2]|

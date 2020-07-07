@@ -1,0 +1,45 @@
+1|(1)Numero Empleado|1100000001|Identificador de estado Invalido (01)|
+1|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+1|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+1|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+1|Número de Control|000001|Tamaño de registro debe ser 20 Digitos|
+2|(1)Numero Empleado|1100000001|Identificador de estado Invalido (01)|
+2|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+2|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+2|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+2|Número de Control|000001|Tamaño de registro debe ser 20 Digitos|
+3|(1)Numero Empleado|1100000001|Identificador de estado Invalido (01)|
+3|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+3|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+3|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+3|Número de Control|000001|Tamaño de registro debe ser 20 Digitos|
+4|(1)Numero Empleado|1100000002|Identificador de estado Invalido (01)|
+4|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+4|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+4|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+4|Número de Control|000002|Tamaño de registro debe ser 20 Digitos|
+5|(1)Numero Empleado|1100000003|Identificador de estado Invalido (01)|
+5|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+5|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+5|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+5|Número de Control|000003|Tamaño de registro debe ser 20 Digitos|
+6|(1)Numero Empleado|1100000004|Identificador de estado Invalido (01)|
+6|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+6|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+6|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+6|Número de Control|000004|Tamaño de registro debe ser 20 Digitos|
+7|(1)Numero Empleado|1100000004|Identificador de estado Invalido (01)|
+7|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+7|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+7|Nombre del Producto|PRDE01B|Tamaño de registro debe ser 11 Digitos|
+7|Número de Control|000004|Tamaño de registro debe ser 20 Digitos|
+8|(1)Numero Empleado|1100000005|Identificador de estado Invalido (01)|
+8|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+8|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+8|Nombre del Producto|PRDE01D|Tamaño de registro debe ser 11 Digitos|
+8|Número de Control|000005|Tamaño de registro debe ser 20 Digitos|
+9|(1)Numero Empleado|1100000006|Identificador de estado Invalido (01)|
+9|Total de Pagos||Tamaño de registro debe ser 4 Digitos|
+9|Pagos Efectuados||Tamaño de registro debe ser 4 Digitos|
+9|Nombre del Producto|PRDE01D|Tamaño de registro debe ser 11 Digitos|
+9|Número de Control|000006|Tamaño de registro debe ser 20 Digitos|

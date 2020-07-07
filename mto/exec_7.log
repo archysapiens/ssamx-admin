@@ -1,0 +1,226 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Fri Sep 2 13:08:13 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   exec_7.ctl
+Data File:      ../staging/prdr010.dat
+  Bad File:     prdr010.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 1
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "PRO_NOMINA"."BDAC", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+"NUEMP"                             FIRST    10   |  O(") CHARACTER            
+                                                      O(")
+"RFC"                                NEXT    13   |  O(") CHARACTER            
+                                                      O(")
+"CURP"                               NEXT    18   |  O(") CHARACTER            
+                                                      O(")
+"NOMBRE"                             NEXT    55   |  O(") CHARACTER            
+                                                      O(")
+"SAR"                                NEXT    20   |  O(") CHARACTER            
+                                                      O(")
+"BANCOA"                             NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"BANCON"                             NEXT     5   |  O(") CHARACTER            
+                                                      O(")
+"NUMCTA"                             NEXT    16   |  O(") CHARACTER            
+                                                      O(")
+"CLABE"                              NEXT    20   |  O(") CHARACTER            
+                                                      O(")
+"CVESPC"                             NEXT    50   |  O(") CHARACTER            
+                                                      O(")
+"CP"                                 NEXT     5   |  O(") CHARACTER            
+                                                      O(")
+"CALLE"                              NEXT   254   |  O(") CHARACTER            
+                                                      O(")
+"COLONIA"                            NEXT   254   |  O(") CHARACTER            
+                                                      O(")
+"DELEG"                              NEXT   254   |  O(") CHARACTER            
+                                                      O(")
+"UR"                                 NEXT     3   |  O(") CHARACTER            
+                                                      O(")
+"GF"                                 NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"FN"                                 NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"SF"                                 NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"PG"                                 NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"AL"                                 NEXT     3   |  O(") CHARACTER            
+                                                      O(")
+"PP"                                 NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"PARTIDA"                            NEXT     5   |  O(") CHARACTER            
+                                                      O(")
+"PUESTO"                             NEXT     7   |  O(") CHARACTER            
+                                                      O(")
+"NUMPTO"                             NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"EDO"                                NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"MPIO"                               NEXT     3   |  O(") CHARACTER            
+                                                      O(")
+"CR"                                 NEXT    10   |  O(") CHARACTER            
+                                                      O(")
+"CI"                                 NEXT    15   |  O(") CHARACTER            
+                                                      O(")
+"PAGADURI"                           NEXT     5   |  O(") CHARACTER            
+                                                      O(")
+"AHISA"                              NEXT    12   |  O(") CHARACTER            
+                                                      O(")
+"TABPTO"                             NEXT     3   |  O(") CHARACTER            
+                                                      O(")
+"NIVEL"                              NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"RANGO"                              NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"INDMANDO"                           NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"HORAS"                              NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"PORCENT"                            NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"TIPOTRAB"                           NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"NIVELPTO"                           NEXT    10   |  O(") CHARACTER            
+                                                      O(")
+"INDEMP"                             NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"FIGF"                               NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"FSSA"                               NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"FREING"                             NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"TIPOMOV"                            NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"FPAGO"                              NEXT    10   |  O(") CHARACTER            
+                                                      O(")
+"PPAGOI"                             NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"PPAGOF"                             NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"PQNAI"                              NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"PQNAF"                              NEXT     8   |  O(") CHARACTER            
+                                                      O(")
+"QNAREAL"                            NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"ANIOREAL"                           NEXT     4   |  O(") CHARACTER            
+                                                      O(")
+"TIPOPAGO"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"INSTRUA"                            NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"INSTRUN"                            NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"PER"                                NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"DED"                                NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"NETO"                               NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"NOTRIAL"                            NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"DIASLAB"                            NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"NOMPROD"                            NEXT    11   |  O(") CHARACTER            
+                                                      O(")
+"NUMCTROL"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"NUMCHEQ"                            NEXT     9   |  O(") CHARACTER            
+                                                      O(")
+"DIGVER"                             NEXT     1   |  O(") CHARACTER            
+                                                      O(")
+"TESOFE"                             NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"DIASPD"                             NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"CICLOF"                             NEXT     5   |  O(") CHARACTER            
+                                                      O(")
+"NUMAPORT"                           NEXT     2   |  O(") CHARACTER            
+                                                      O(")
+"ACUMF"                              NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"FALTAS"                             NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"LSGS"                               NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+    SQL string for column : "DECODE(TRANSLATE(':LSGS','0123456789',' '),NULL,':LSGS',0)"
+"PORPEN01"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+    SQL string for column : "TO_NUMBER(:PORPEN01)"
+"PORPEN02"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"PORPEN03"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"PORPEN04"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"PORPEN05"                           NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"ISSSTE"                             NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"TIPOUNI"                            NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+"CRESPDES"                           NEXT   100   |  O(") CHARACTER            
+                                                      O(")
+"VERSION"                            NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+    SQL string for column : "'prdr010.dat'||:VERSION"
+"ESTADO"                                                  CONSTANT
+    Value is '02'
+"TIPNOM"                                                  CONSTANT
+    Value is '6R'
+"QNAPROC"                                                 CONSTANT
+    Value is '18'
+"ANIOPROC"                                                CONSTANT
+    Value is '2016'
+"QNAENVIO"                                                CONSTANT
+    Value is '18'
+"ANIOENV"                                                 CONSTANT
+    Value is '2016'
+"NOMARCH"                                                 CONSTANT
+    Value is '007'
+"TIPOPER"                                                 CONSTANT
+    Value is '02'
+"LLAVE"                              NEXT     *   |  O(") CHARACTER            
+                                                      O(")
+    SQL string for column : "'182016182016'||:UR||:TIPNOM||:EDO||:NOMPROD||:NUMCTROL||:RFC ||:NOMARCH"
+
+value used for ROWS parameter changed from 64 to 38
+
+Table "PRO_NOMINA"."BDAC":
+  2 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 251674 bytes(38 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             2
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Sep 02 13:08:13 2016
+Run ended on Fri Sep 02 13:08:13 2016
+
+Elapsed time was:     00:00:00.16
+CPU time was:         00:00:00.04

@@ -1,0 +1,360 @@
+1|(9)Clave del Banco (CLABE)|00072010004441478066|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+1|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+1|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+1|(23)Puesto|M03021|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+1|(24)Número de Puesto|0061|El Número Puesto no es parte del catalogo de DGRH|
+1|(28)Cédula de Identidad (NSS)|000080927366528|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+1|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+1|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+1|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+1|(54)Percepciones |250.95|Percepciones debe  ser de 10 digitos y 2 decimales|
+1|(55)Deducciones |80.27|Deducciones debe  ser de 10 digitos y 2 decimales |
+1|(56)Neto|170.68|Neto debe  ser de 10 digitos y 2 decimales |
+1|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+1|(60) Número de Control |2|No coincide con directiva de Calidad (Numerico)|
+1|(61)Número de Cheque|000529304|Número de Cheque debe  ser de 10 Digitos|
+1|(63)Indicador de TESOFE -JORNADA|2|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+1|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+1|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+1|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+1|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+1|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+1|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+1|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+1|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+2|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+2|(10)Clave del Servicio Profesional de Carrera (FUNCION)|7|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+2|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+2|(23)Puesto|M03005|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+2|(24)Número de Puesto|0061|El Número Puesto no es parte del catalogo de DGRH|
+2|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+2|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+2|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+2|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+2|(54)Percepciones |5870|Percepciones debe  ser de 10 digitos y 2 decimales|
+2|(55)Deducciones |1155.91|Deducciones debe  ser de 10 digitos y 2 decimales |
+2|(56)Neto|4714.09|Neto debe  ser de 10 digitos y 2 decimales |
+2|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+2|(60) Número de Control |3|No coincide con directiva de Calidad (Numerico)|
+2|(61)Número de Cheque|010000131|Número de Cheque debe  ser de 10 Digitos|
+2|(63)Indicador de TESOFE -JORNADA|2|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+2|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+2|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+2|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+2|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+2|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+2|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+2|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+2|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+3|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+3|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+3|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+3|(23)Puesto|M02105|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+3|(24)Número de Puesto|0133|El Número Puesto no es parte del catalogo de DGRH|
+3|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+3|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+3|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+3|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+3|(54)Percepciones |1807.8|Percepciones debe  ser de 10 digitos y 2 decimales|
+3|(55)Deducciones |617.22|Deducciones debe  ser de 10 digitos y 2 decimales |
+3|(56)Neto|1190.58|Neto debe  ser de 10 digitos y 2 decimales |
+3|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+3|(60) Número de Control |4|No coincide con directiva de Calidad (Numerico)|
+3|(61)Número de Cheque|010000132|Número de Cheque debe  ser de 10 Digitos|
+3|(63)Indicador de TESOFE -JORNADA|1|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+3|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+3|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+3|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+3|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+3|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+3|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+3|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+3|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+4|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+4|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+4|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+4|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+4|(24)Número de Puesto|0273|El Número Puesto no es parte del catalogo de DGRH|
+4|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+4|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+4|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+4|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+4|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+4|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+4|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+4|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+4|(60) Número de Control |5|No coincide con directiva de Calidad (Numerico)|
+4|(61)Número de Cheque|010000133|Número de Cheque debe  ser de 10 Digitos|
+4|(63)Indicador de TESOFE -JORNADA|1|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+4|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+4|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+4|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+4|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+4|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+4|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+4|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+4|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+5|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+5|(10)Clave del Servicio Profesional de Carrera (FUNCION)|6|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+5|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+5|(23)Puesto|M02006|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+5|(24)Número de Puesto|0060|El Número Puesto no es parte del catalogo de DGRH|
+5|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+5|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+5|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+5|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+5|(54)Percepciones |2539.2|Percepciones debe  ser de 10 digitos y 2 decimales|
+5|(55)Deducciones |812.16|Deducciones debe  ser de 10 digitos y 2 decimales |
+5|(56)Neto|1727.04|Neto debe  ser de 10 digitos y 2 decimales |
+5|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+5|(60) Número de Control |6|No coincide con directiva de Calidad (Numerico)|
+5|(61)Número de Cheque|010000134|Número de Cheque debe  ser de 10 Digitos|
+5|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+5|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+5|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+5|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+5|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+5|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+5|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+5|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+5|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+6|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+6|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+6|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+6|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+6|(24)Número de Puesto|0301|El Número Puesto no es parte del catalogo de DGRH|
+6|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+6|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+6|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+6|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+6|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+6|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+6|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+6|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+6|(60) Número de Control |7|No coincide con directiva de Calidad (Numerico)|
+6|(61)Número de Cheque|010000135|Número de Cheque debe  ser de 10 Digitos|
+6|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+6|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+6|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+6|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+6|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+6|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+6|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+6|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+6|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+7|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+7|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+7|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+7|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+7|(24)Número de Puesto|0301|El Número Puesto no es parte del catalogo de DGRH|
+7|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+7|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+7|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+7|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+7|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+7|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+7|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+7|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+7|(60) Número de Control |8|No coincide con directiva de Calidad (Numerico)|
+7|(61)Número de Cheque|010000136|Número de Cheque debe  ser de 10 Digitos|
+7|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+7|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+7|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+7|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+7|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+7|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+7|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+7|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+7|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+8|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+8|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+8|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+8|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+8|(24)Número de Puesto|0301|El Número Puesto no es parte del catalogo de DGRH|
+8|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+8|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+8|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+8|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+8|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+8|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+8|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+8|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+8|(60) Número de Control |9|No coincide con directiva de Calidad (Numerico)|
+8|(61)Número de Cheque|010000137|Número de Cheque debe  ser de 10 Digitos|
+8|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+8|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+8|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+8|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+8|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+8|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+8|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+8|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+8|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+9|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+9|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+9|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+9|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+9|(24)Número de Puesto|0288|El Número Puesto no es parte del catalogo de DGRH|
+9|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+9|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+9|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+9|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+9|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+9|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+9|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+9|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+9|(60) Número de Control |10|No coincide con directiva de Calidad (Numerico)|
+9|(61)Número de Cheque|010000138|Número de Cheque debe  ser de 10 Digitos|
+9|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+9|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+9|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+9|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+9|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+9|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+9|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+9|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+9|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+10|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+10|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+10|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+10|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+10|(24)Número de Puesto|0288|El Número Puesto no es parte del catalogo de DGRH|
+10|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+10|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+10|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+10|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+10|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+10|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+10|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+10|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+10|(60) Número de Control |11|No coincide con directiva de Calidad (Numerico)|
+10|(61)Número de Cheque|010000139|Número de Cheque debe  ser de 10 Digitos|
+10|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+10|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+10|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+10|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+10|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+10|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+10|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+10|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+10|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+11|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+11|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+11|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+11|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+11|(24)Número de Puesto|0288|El Número Puesto no es parte del catalogo de DGRH|
+11|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+11|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+11|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+11|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+11|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+11|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+11|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+11|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+11|(60) Número de Control |12|No coincide con directiva de Calidad (Numerico)|
+11|(61)Número de Cheque|010000140|Número de Cheque debe  ser de 10 Digitos|
+11|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+11|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+11|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+11|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+11|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+11|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+11|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+11|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+11|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+12|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+12|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+12|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+12|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+12|(24)Número de Puesto|0253|El Número Puesto no es parte del catalogo de DGRH|
+12|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+12|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+12|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+12|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+12|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+12|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+12|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+12|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+12|(60) Número de Control |13|No coincide con directiva de Calidad (Numerico)|
+12|(61)Número de Cheque|010000141|Número de Cheque debe  ser de 10 Digitos|
+12|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+12|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+12|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+12|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+12|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+12|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+12|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+12|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+12|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+13|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+13|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+13|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+13|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+13|(24)Número de Puesto|0253|El Número Puesto no es parte del catalogo de DGRH|
+13|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+13|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+13|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+13|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+13|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+13|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+13|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+13|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+13|(60) Número de Control |14|No coincide con directiva de Calidad (Numerico)|
+13|(61)Número de Cheque|010000142|Número de Cheque debe  ser de 10 Digitos|
+13|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+13|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+13|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+13|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+13|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+13|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+13|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+13|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+13|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+14|(9)Clave del Banco (CLABE)|00000000000000000000|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+14|(10)Clave del Servicio Profesional de Carrera (FUNCION)|5|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+14|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+14|(23)Puesto|M02035|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+14|(24)Número de Puesto|0253|El Número Puesto no es parte del catalogo de DGRH|
+14|(28)Cédula de Identidad (NSS)|000000000000000|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+14|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+14|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+14|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+14|(54)Percepciones |9485|Percepciones debe  ser de 10 digitos y 2 decimales|
+14|(55)Deducciones |2050.67|Deducciones debe  ser de 10 digitos y 2 decimales |
+14|(56)Neto|7434.33|Neto debe  ser de 10 digitos y 2 decimales |
+14|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+14|(60) Número de Control |15|No coincide con directiva de Calidad (Numerico)|
+14|(61)Número de Cheque|010000143|Número de Cheque debe  ser de 10 Digitos|
+14|(63)Indicador de TESOFE -JORNADA|4|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+14|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+14|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+14|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+14|(70)Porcentaje de Pensión 01 |0|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+14|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+14|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+14|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+14|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+15|(9)Clave del Banco (CLABE)|00072010001847718394|Tamaño de Clave del Banco (CLABE) debe ser 18 dígitos|
+15|(10)Clave del Servicio Profesional de Carrera (FUNCION)|9|Tamaño de Clave del Servicio Profesional de Carrera (FUNCION) debe ser 2 dígitos|
+15|(19)Programa General|01|La Programa General no es parte del catalogo de DGRH|
+15|(23)Puesto|M03019|Tamaño de Puesto debe ser  a 7 Alfanumerico|
+15|(24)Número de Puesto|0114|El Número Puesto no es parte del catalogo de DGRH|
+15|(28)Cédula de Identidad (NSS)|000080905598753|Tamaño de campo Cédula de Identidad (NSS) debe ser  a 11 Caracters|
+15|(30)Número de AHISA-Fuente de Financiamiento|1|Tamaño de campo Número de AHISA-Fuente de Financiamiento debe ser de 2 Digítos|
+15|(38)Nivel de puesto - Nivel de puesto SPC||Nivel de puesto - Nivel de puesto SPC debe ser de 10 Digítos|
+15|(48)Periodo de Aplicación Final|20160229|No Corresponde a datos de Aplicacion Final (15/28/29/30/31)|
+15|(54)Percepciones |760.74|Percepciones debe  ser de 10 digitos y 2 decimales|
+15|(55)Deducciones |561.39|Deducciones debe  ser de 10 digitos y 2 decimales |
+15|(56)Neto|199.35|Neto debe  ser de 10 digitos y 2 decimales |
+15|(59)Nombre del Producto|PRDR040|Nombre del Producto debe  ser de 11 caracteres/numeros|
+15|(60) Número de Control |16|No coincide con directiva de Calidad (Numerico)|
+15|(61)Número de Cheque|000529305|Número de Cheque debe  ser de 10 Digitos|
+15|(63)Indicador de TESOFE -JORNADA|2|Indicador de TESOFE-JORNADA debe  ser de 2 Digitos|
+15|(65)Ciclo del FONAC||Ciclo del FONAC debe  ser de 4 Digitos|
+15|(66)Número de Aportaciones al FONAC||Número de Aportaciones al FONAC debe  ser de 2 Digitos|
+15|(67)Acumulado de FONAC|0|Acumulado de FONAC debe  ser de 10 Digitos|
+15|(70)Porcentaje de Pensión 01 |60|Porcentaje de Pensión 01  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+15|(71)Porcentaje de Pensión 02 |0|Porcentaje de Pensión 02  No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+15|(72)Porcentaje de Pensión 03|0|Porcentaje de Pensión 03 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+15|(73)Porcentaje de Pensión 04|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|
+15|(74)Porcentaje de Pensión 05|0|Porcentaje de Pensión 04 No coincide con la Directiva de Calidad definida por la DGRH(###.##)|

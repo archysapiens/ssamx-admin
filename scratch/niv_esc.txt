@@ -1,0 +1,48 @@
+DESCRIPCION DEL NIVEL DE ESCOLARIDAD
+Ninguno
+Preescolar o Kinder
+Primaria
+Primaria
+Primaria
+Secundaria
+Secundaria
+Secundaria
+Preparatoria o Bachillerato
+Preparatoria o Bachillerato
+Preparatoria o Bachillerato
+Bachillerato Técnico o Especializado
+Bachillerato Técnico o Especializado
+Bachillerato Técnico o Especializado
+Bachillerato Técnico o Especializado
+Normal
+Normal
+Normal
+Normal
+Carrera Técnica o Comercial
+Carrera Técnica o Comercial
+Carrera Técnica o Comercial
+Carrera Técnica o Comercial
+Técnico Superior Universitario
+Técnico Superior Universitario
+Técnico Superior Universitario
+Técnico Superior Universitario
+Licenciatura o Profesional
+Licenciatura o Profesional
+Licenciatura o Profesional
+Licenciatura o Profesional
+Posgrado
+Posgrado
+Posgrado
+Posgrado
+Maestria
+Maestria
+Maestria
+Maestria
+Doctorado
+Doctorado
+Doctorado
+Doctorado
+Postdoctorado
+Postdoctorado
+Postdoctorado
+Postdoctorado

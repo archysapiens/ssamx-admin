@@ -1,0 +1,34 @@
+-- Crear Usuario
+
+INSERT usuarios(
+  id,
+  nombre,
+  app_paterno,
+  app_materno,
+  tel_oficina,
+  extension,
+  tel_mobil,
+  PASSWORD)VALUES(
+  'producto@salud.gob.mx',
+  'Procuto de',
+  'Nomina',
+  'DGRH',
+  '50-62-16-00',
+  '589##',
+  '722245131',
+  '123'
+  );
+
+    INSERT INTO `ssa`.`privilegios`
+            (`fecha`,
+             `id_organismos`,
+             `id_usuarios`,
+             `estatus`,
+             `fecha_actualizacion`,
+             `id_roles`)
+VALUES (CURDATE(),
+        '01',
+        'producto@salud.gob.mx',
+        'A',
+        CURDATE(),
+        10);
